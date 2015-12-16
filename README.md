@@ -1,3 +1,3 @@
 # good-enough-practices
-Information about the guidelines recommended by the SoftDev4LS working group
+Good practices in software development recommended by the SoftDev4LS working group
 
